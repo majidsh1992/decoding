@@ -8,3 +8,5 @@ If the numbers are correct, the box will turn green
 If the numbers are not in their place, the box will turn yellow
 If there are no numbers, the box will be red.
 Hope you enjoy.
+
+https://majidsh1992.github.io/decoding/
